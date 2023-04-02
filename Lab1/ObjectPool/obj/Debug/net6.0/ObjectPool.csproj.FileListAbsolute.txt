@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\bin\Debug\net6.0\ObjectPool.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\bin\Debug\net6.0\ObjectPool.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\bin\Debug\net6.0\ObjectPool.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\bin\Debug\net6.0\ObjectPool.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\bin\Debug\net6.0\ObjectPool.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\refint\ObjectPool.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ObjectPool.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\ObjectPool\obj\Debug\net6.0\ref\ObjectPool.dll

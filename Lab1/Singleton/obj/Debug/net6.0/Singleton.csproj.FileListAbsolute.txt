@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Singleton\obj\Debug\net6.0\ref\Singleton.dll

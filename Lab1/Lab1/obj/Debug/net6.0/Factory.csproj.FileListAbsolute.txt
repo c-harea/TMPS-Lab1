@@ -1,0 +1,17 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Factory.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Factory.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Factory.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Factory.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Factory.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\bin\Debug\net6.0\Aspose.Drawing.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.csproj.CopyComplete
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\refint\Factory.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Lab1\obj\Debug\net6.0\ref\Factory.dll

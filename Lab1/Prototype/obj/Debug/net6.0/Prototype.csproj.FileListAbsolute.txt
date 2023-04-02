@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\bin\Debug\net6.0\Prototype.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\bin\Debug\net6.0\Prototype.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\bin\Debug\net6.0\Prototype.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\bin\Debug\net6.0\Prototype.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Prototype\obj\Debug\net6.0\ref\Prototype.dll

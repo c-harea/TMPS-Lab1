@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\bin\Debug\net6.0\Builder.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\bin\Debug\net6.0\Builder.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\bin\Debug\net6.0\Builder.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\bin\Debug\net6.0\Builder.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\refint\Builder.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab1\Lab1\Builder\obj\Debug\net6.0\ref\Builder.dll
